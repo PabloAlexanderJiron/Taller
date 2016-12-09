@@ -1,0 +1,10 @@
+	Comercial Ventas Y Reventas
+Nombre: Pablo
+Ciudad: Loja
+------------------------------
+Producto	Cantidad	Precio
+Aceite		3	3,90
+------------------------------
+	Subtotal: 3,90
+	IVA 14: 0,55
+	Total: 4,45
